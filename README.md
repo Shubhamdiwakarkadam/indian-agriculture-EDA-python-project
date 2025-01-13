@@ -8,19 +8,17 @@ This dataset, which I obtained from [Kaggle](https://www.kaggle.com/datasets/nik
 We also know from the data description on Kaggle that the units of the columns is as following Area (Hectares), Production (Tonnes), and Yield(Tonnes/Hectare)
 
 
+# Exploratory Data Analysis and Data Cleaning :
+- Data Cleaning :- Data looks to be fine, there is no cleaning required
 
-# Exploratory Data Analysis :-
-
-Several significant conclusions drawn from the analysis 👇
-
-In India, the most widely grown crops are rice, maize, moong (green gramme), urad, and sesame.
-Five states Punjab, Maharashtra, Rajasthan, West Bengal, and Madhya Pradesh have vast agricultural land.
-Kerala, Goa, Tamil Nadu, Andaman & Nicobar Island, and Karnataka are India's top five agricultural producing states.
-No matter how much land is used for agriculture and how much is produced, the yield should still be higher in order to boost the Indian economy and the profit of the farmer
-States with highest yields include Puducherry, West Bengal, Kerala, Goa and Andaman & Nicobar Island.
-The choice of a certain crop to increase production depends on numerous factors, including weather, geography, and others.
-All of these data have been processed using ML models so that farmers can choose a precision crop that is suited to their region and increases the productivity.
-
+- Exploratory Data Analysis :- Several significant conclusions drawn from the analysis 👇
+  - In India, the most widely grown crops are rice, maize, moong (green gramme), urad, and sesame.
+  - Five states Punjab, Maharashtra, Rajasthan, West Bengal, and Madhya Pradesh have vast agricultural land.
+  - Kerala, Goa, Tamil Nadu, Andaman & Nicobar Island, and Karnataka are India's top five agricultural producing states.
+  - No matter how much land is used for agriculture and how much is produced, the yield should still be higher in order to boost the Indian economy and the profit of the farmer
+  - States with highest yields include Puducherry, West Bengal, Kerala, Goa and Andaman & Nicobar Island.
+  - The choice of a certain crop to increase production depends on numerous factors, including weather, geography, and others.
+  - All of these data have been processed using ML models so that farmers can choose a precision crop that is suited to their region and increases the productivity.
 
 # Conclusion
 In conclusion, the Kharif season emerges as the most productive period for agriculture, showcasing peak yields due to favorable climatic conditions. States like Kerala, Karnataka, Tamil Nadu, and Andhra Pradesh play a pivotal role in driving agricultural production, contributing significantly to the sector's overall output. Their consistent performance highlights the importance of these regions in ensuring food security and sustaining the agrarian economy.
