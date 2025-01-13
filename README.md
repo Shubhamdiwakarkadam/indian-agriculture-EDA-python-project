@@ -18,8 +18,7 @@ We also know from the data description on Kaggle that the units of the columns i
   - No matter how much land is used for agriculture and how much is produced, the yield should still be higher in order to boost the Indian economy and the profit of the farmer
   - States with highest yields include Puducherry, West Bengal, Kerala, Goa and Andaman & Nicobar Island.
   - The choice of a certain crop to increase production depends on numerous factors, including weather, geography, and others.
-  - All of these data have been processed using ML models so that farmers can choose a precision crop that is suited to their region and increases the productivity.
-
+  
 # Conclusion
 In conclusion, the Kharif season emerges as the most productive period for agriculture, showcasing peak yields due to favorable climatic conditions. States like Kerala, Karnataka, Tamil Nadu, and Andhra Pradesh play a pivotal role in driving agricultural production, contributing significantly to the sector's overall output. Their consistent performance highlights the importance of these regions in ensuring food security and sustaining the agrarian economy.
 
